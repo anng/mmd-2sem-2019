@@ -6,5 +6,9 @@ h1{
   background: #553388;
 }
 p{
-  font-size: 2ems;
+  background: #005533;
+  font-size: 3ems;
+}
+footer{
+  background: #ff11ff;
 }
